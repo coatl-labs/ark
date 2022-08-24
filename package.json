@@ -1,0 +1,32 @@
+{
+  "name": "@coatl/ark",
+  "version": "0.0.1",
+  "description": "Json model driver, writter, store for @coatl/db",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coatl-labs/ark.git"
+  },
+  "keywords": [
+    "db",
+    "database",
+    "json",
+    "driver",
+    "javascript",
+    "types"
+  ],
+  "author": "Coatl | Carlos Burelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coatl-labs/ark/issues"
+  },
+  "homepage": "https://github.com/coatl-labs/ark#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
